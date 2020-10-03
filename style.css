@@ -6,3 +6,13 @@ body {
     height: 50%;
     margin: 0%;
   }
+  h2 {
+    text-align: center;
+    color:red;
+  }
+  p {
+     text-align: center;
+    }
+div {
+  text-align: center;
+  }
