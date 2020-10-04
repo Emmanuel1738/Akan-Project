@@ -6,6 +6,12 @@ body {
     height: 50%;
     margin: 0%;
   }
+  body 
+  image {
+position: center;
+height: 100%;
+margin: 100%;
+  }
   h2 {
     text-align: center;
     color:red;
