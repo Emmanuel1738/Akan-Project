@@ -17,8 +17,8 @@
 
 ## Deployment.
 
-- You can vist the site directly by clicking [HERE](https://skimanikings.github.io/Akan-Names/)
-- To view the source codes on github click [HERE](https://github.com/SkimaniKings/Akan-Names)
+- You can vist the site directly by clicking [HERE](https://emmanuel1738.github.io/Akan-Project/)
+- To view the source codes on github click [HERE](https://github.com/Emmanuel1738/Akan-Project/tree/gh-pages)
 
 ## Behaviour Driven Development.
 
