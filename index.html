@@ -1,49 +1,63 @@
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>Akan</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
-    <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
-    <script src="bootstrap/js/bootstrap.bundle.js"></script>
-        <h2>AKAN.</h2>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Akan Names</title>
+  <link rel="shortcut icon" href="https://bit.ly/2SupoAx" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap" rel="stylesheet">
+  <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <script src="./js/script.js"></script>
+</head>
+<body>
+    <main>
+        <h1><strong>AKAN</strong></h1>
         <p>
             Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. The application checks whether the date and month entered is valid and output to the user their Akan name depending on their gender. The application would finally match that with day name. Hence the output the user will see something like “Your Akan name is Kwasi” for example.
         </p>
-</head>
-<body class="bg">
-    <div>
-        <img src="images/akan.jpg" alt="akan">
-        <div class="row">
-            <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
-                <div class="card card-signin my-5">
-                    <div class="card-body">
-                        <h5 class="card-title text-center">DOB</h5>
-                        <form class="DOB">
-                            <div class="form-label-group">
-                                <input type="date" id="inputdate" class="form-control" placeholder="date"
-                                    required autofocus>
-                                 </div>
-                                 <form action="">
-                                     <input type="radio" name="gender" value="male"> Male<br>
-                                     <input type="radio" name="gender" value="female"> Female<br>
-                                     <input type="radio" name="gender" value="other"> Other
-                                    </form>
-                                    <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Submit</button>
-                                </form>
-                            </div>
-                            <footer>
-                                <a href="#" class="fa fa-facebook"></a> 
-                                <a href="#" class="fa fa-instagram"></a> 
-                                <a href="#" class="fa fa-twitter"></a><br>
-                                &copy; Copyright 2020 Emmanuel Bett
-                            </footer>
+    </main>
+    <body class="bg">
+        <div>
+            <div class="row">
+                <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+                    <div class="card card-signin my-5">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Details</h5>
+                            <form class="Details">
+                                <div class="form-label-group">
+                                    <section>
+                                        <form>
+                                            <label>Year</label><br>
+                                            <input type="text" id="year" placeholder="Year born"><br>
+                                            <div class="label">
+                                                <label>Month</label><br>
+                                                <input type="text" id="month" placeholder="Month born"><br>
+                                                <label>Day</label><br>
+                                                <input type="text" id="day" placeholder="Day born"><br>
+                                                <label>Gender</label><br>
+                                                <input type="radio" id="gender" name="gender" value="male">Male
+                                                <input type="radio" id="gender" name="gender" value="female">Female
+                                                <input type="radio" id="gender" name="gender" value="other">Other<br><br>
+                                                <input type="submit" onclick="giveAkanName()" value="Submit">
+                                            </div> 
+                                        </form>
+                                    </section>
+                                    <footer>
+                                        <a href="#" class="fa fa-facebook"></a> 
+                                        <a href="#" class="fa fa-instagram"></a> 
+                                        <a href="#" class="fa fa-twitter"></a><br>
+                                        &copy; Copyright 2020 Emmanuel Bett
+                                    </footer>
+                                </body>
+                             </body>
                         </body>
                     </body>
                 </body>
             </body>
         </body>
     </body>
-</body>
 </html>
