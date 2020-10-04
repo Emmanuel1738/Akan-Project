@@ -1,26 +1,26 @@
-## Table of Contents
+## Table of Contents.
 
-- Project Title
-- Description
-- Deployment
-- BDD (Behaviour Driven Development)
-- Technologies used
-- Licence
-- Contacts
-- Author
+- Project Title.
+- Description.
+- Deployment.
+- BDD (Behaviour Driven Development).
+- Technologies used.
+- Licence.
+- Contacts.
+- Author.
 
-# AKAN NAMING SYSTEM
+# AKAN NAMING SYSTEM.
 
-## DESCRIPTION
+## DESCRIPTION.
 
 - This is a website that was inspired by the Ghananian way of determining `new-borns's first name`. Just by adding your `birthday date` , the site calculates the `day of the week` you were born and then depending on their gender outputs their Akan Name.
 
-## Deployment
+## Deployment.
 
 - You can vist the site directly by clicking [HERE](https://skimanikings.github.io/Akan-Names/)
 - To view the source codes on github click [HERE](https://github.com/SkimaniKings/Akan-Names)
 
-## BDD
+## BDD.
 
 > The website will require a user to fill out information about his date of birth and the century he was was born.
 > The application calculates the day of the week the user was born and outputs it.
@@ -28,13 +28,13 @@
 > The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
 - NB : `All input should be in Numbers`
 
-## Technologies Used
-- html
- - css
- - javascript
- - bootsrap 
+## Technologies Used.
+- HTML.
+ - CSS.
+ - Javascript.
+ - Bootsrap.
 
-## Licence
+## Licence.
 
 The MIT License (MIT)
 
@@ -46,13 +46,17 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-@Emmanuel Bett
+@Emmanuel Bett.
 
-## Contacts
+## Contacts.
 
 - Incase of any feedback you can reach me through my personal contacts:
-Emmanuelbett13@gmail.com
+email: Emmanuelbett13@gmail.com
 
-## Author
+Facebook: Emmanuel Bett
 
-> Emmanuel Bett
+Twitter: Emmanuel1738
+
+## Author Information.
+
+>Name: Emmanuel Bett.
