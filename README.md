@@ -7,7 +7,7 @@
 - Technologies used.
 - Licence.
 - Contacts.
-- Author.
+- Author's Information.
 
 # AKAN NAMING SYSTEM.
 
@@ -51,12 +51,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contacts.
 
 - Incase of any feedback you can reach me through my personal contacts:
-email: Emmanuelbett13@gmail.com
+
+Email: Emmanuelbett13@gmail.com
 
 Facebook: Emmanuel Bett
 
 Twitter: Emmanuel1738
 
-## Author Information.
+## Author's Information.
 
 >Name: Emmanuel Bett.
