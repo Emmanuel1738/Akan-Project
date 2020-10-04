@@ -9,3 +9,9 @@ function giveAkanName () {
     var gender=getGender();
     var date = new Date(year +"/" + month + "/"+day);
     var dayBorn = date.getDay();
+    // var akanName;
+    var validate = (year > 0 && (month >0 && month <=12) && (day > 0 && day <= 31));
+    // var validateGender = (gender !== "male" && gender !== "female");
+
+    if (year <= 1800 ) {
+        alert("Invalid year");
