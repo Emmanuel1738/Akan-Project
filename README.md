@@ -17,10 +17,10 @@
 
 ## Deployment.
 
-- You can vist the site directly by clicking [HERE](https://skimanikings.github.io/Akan-Names/)
-- To view the source codes on github click [HERE](https://github.com/SkimaniKings/Akan-Names)
+- You can vist the site directly by clicking [HERE](https://emmanuel1738.github.io/Akan-Project/)
+- To view the source codes on github click [HERE](https://github.com/Emmanuel1738/Akan-Project/tree/gh-pages)
 
-## BDD.
+## Behaviour Driven Development.
 
 > The website will require a user to fill out information about his date of birth and the century he was was born.
 > The application calculates the day of the week the user was born and outputs it.
